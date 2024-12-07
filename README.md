@@ -9,12 +9,18 @@ A clean and intuitive UI for a seamless gaming experience.
 Functionality to handle winning conditions for both players (X and O).
 A detection system for draw scenarios when all boxes are filled without a winner.
 Buttons to reset the game or start a new game.
+
 Features
 Player Turns:
 Alternates between X and O after each valid move.
 Winning Conditions:
 Detects when a player (X or O) has won the game.
 Highlights the winner with a congratulatory message.
+
+Draw Scenario:
+Declares a draw if all boxes are filled and no winner is determined.
+Reset/New Game:
+Allows players to reset the game board or start a new game.
 Draw Scenario:
 Declares a draw if all boxes are filled and no winner is determined.
 Reset/New Game:
