@@ -61,11 +61,15 @@ This game includes:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
-File Structure
-bash
-Copy code
+## File structure
+
+
 tic-tac-toe/
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # Styling for the game
+
 ├── callbacks.js    # Game logic and interactivity
+
 ├── README.md       # Game documentation
