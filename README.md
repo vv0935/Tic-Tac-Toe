@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 Description
+
 The Tic-Tac-Toe game is a simple and interactive web-based implementation of the classic two-player game. The objective is to get three of your symbols (either X or O) in a row (horizontally, vertically, or diagonally) before your opponent does.
+
 ![image](https://github.com/user-attachments/assets/970f8c64-d4d5-430a-bbaf-096e954ebda9)
 
 This game has:
@@ -28,17 +30,22 @@ Reset/New Game:
 
 Allows players to reset the game board or start a new game.
 Game States
+
 Winner: X
+
 Occurs when player X aligns three of their symbols in:
 A row (e.g., top row: boxes 0, 1, 2).
 A column (e.g., middle column: boxes 1, 4, 7).
 A diagonal (e.g., boxes 0, 4, 8).
+
 Winner: O
+
 Same winning conditions as X but for player O.
 Draw
 Occurs when all nine boxes are filled without a winner.
 
 How to Play
+
 Open the game in a web browser.
 Player O always starts first.
 Take turns clicking on a box to place your symbol (X or O).
