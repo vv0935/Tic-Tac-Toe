@@ -59,6 +59,5 @@ Enhance the UI with animations and themes.
 Add a multiplayer mode over a network.
 Demo
 Upload your project to GitHub Pages or a similar hosting service and provide the live demo link here: Play Tic-Tac-Toe
-
 License
 This project is licensed under the MIT License.
