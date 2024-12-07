@@ -1,6 +1,3 @@
-# Let's create a README.md file with the content for the Tic-Tac-Toe game.
-
-content = """
 # Tic-Tac-Toe Game
 
 ## Description
