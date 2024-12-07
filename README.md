@@ -3,6 +3,8 @@
 ## Description
 The Tic-Tac-Toe game is a simple and interactive web-based implementation of the classic two-player game. The objective is to get three of your symbols (either `X` or `O`) in a row (horizontally, vertically, or diagonally) before your opponent does.
 
+![image](https://github.com/user-attachments/assets/7a927010-7222-4405-86c7-0754e498577f)
+
 This game includes:  
 - A clean and intuitive UI for a seamless gaming experience.  
 - Functionality to handle winning conditions for both players (`X` and `O`).  
